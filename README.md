@@ -1,1 +1,1 @@
-Project 1 for Nathanael Dorsey in course CUS1172
+visit https://nathanaeldorsey.github.io/CUS1172-Project/Project1%20Nathanael%20Dorsey.html
