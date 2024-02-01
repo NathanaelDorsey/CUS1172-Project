@@ -13,6 +13,25 @@ body {
   background-color: transparent;
   
 }
+
+nav.gallery:hover {
+  border: 1px solid #777;
+}
+
+nav.gallery img {
+  width: auto;
+  height: auto;
+  text-align: center;
+  background-color: lightgrey;
+  ;
+}
+
+nav.desc {
+  text-align: center;
+  font-size: 24px;
+  color: brown;
+  background-color: lightgrey;
+}
 .menu{
   border: 2px solid black;
   margin: auto;
@@ -49,12 +68,12 @@ body {
   background-color: gold;
 }
 #form1{
+ user-select: none;
  border: 25px; 
  background-color: brown; 
  width: 200px;
  padding: 5px
 }
-
 #h2{
   border-style: ridge;
   text-align: center;
