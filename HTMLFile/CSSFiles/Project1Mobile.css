@@ -5,7 +5,7 @@
     }
 
     img {
-        max-width: 100%;
+        max-width: auto;
         height: auto;
     }
 
@@ -43,7 +43,6 @@
 
     .menu a {
         text-decoration: none;
-        
         padding: 10px 15px;
     }
 
