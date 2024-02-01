@@ -28,4 +28,27 @@
         display: block;
         overflow-x: auto;
     }
+    .menu {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background-color: white; 
+        z-index: 1000; 
+        display: flex;
+        justify-content: space-around; 
+        align-items: center; 
+        padding: 10px 0; 
+    }
+
+    .menu a {
+        text-decoration: none;
+        
+        padding: 10px 15px;
+    }
+
+    body {
+        padding-top: 60px;
+    }
+
 }
