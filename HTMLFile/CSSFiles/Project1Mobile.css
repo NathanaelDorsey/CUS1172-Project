@@ -1,0 +1,31 @@
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 14px;
+        line-height: 1.6;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    #menu_anchor ul,
+    .gallery,
+    .desc {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        text-align: center;
+    }
+
+    .gallery a, .desc {
+        display: block;
+        margin: 10px auto;
+    }
+
+    table {
+        width: 100%;
+        display: block;
+        overflow-x: auto;
+    }
+}
