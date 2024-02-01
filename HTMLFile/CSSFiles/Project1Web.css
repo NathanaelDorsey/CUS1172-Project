@@ -7,3 +7,76 @@ body {
   color: black;
   text-align: float; 
 }
+
+#div1{
+  text-align: center;
+  background-color: transparent;
+  
+}
+.menu{
+  border: 2px solid black;
+  margin: auto;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: gold;
+}
+#span1{
+  background-color: lightgrey;
+  margin: auto;
+}
+#ul1{
+ list-style-type: none; 
+ text-align: left;
+}
+#li1{
+ list-style-type: none;
+ text-align: center;
+ font-size: 30px;
+ color: brown;
+ background-color: lightgrey;
+ margin: auto;
+}
+#img1{
+  width:50%;
+  height: auto;
+}
+#table1{
+  margin: auto;
+  border: 3px solid;
+  color: brown;
+  background-color: gold;
+}
+#form1{
+ border: 25px; 
+ background-color: brown; 
+ width: 200px;
+ padding: 5px
+}
+
+#h2{
+  border-style: ridge;
+  text-align: center;
+}
+#p1{
+ font-weight: bold;
+ border: 25px;
+ padding: 5px;
+ background-color: brown;
+ width: 200px;
+}
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 6px solid brown;
+  padding: 3px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: lightgrey;
+  color: brown;
+}
