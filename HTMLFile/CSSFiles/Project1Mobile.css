@@ -8,7 +8,7 @@
 
     img {
         max-width: 600px;
-        height: auto;
+        max-height: 600px;
     }
 
     #menu_anchor ul,
@@ -18,7 +18,7 @@
         padding: 0;
         list-style-type: none;
         text-align: center;
-        margin-right: 0;
+        margin-right: 32px;
     }
 
     .gallery a, .desc {
@@ -35,6 +35,7 @@
         position: fixed;
         top: 0;
         left: 0;
+        max-height: 100px;
         width: 100%;
         background-color: white; 
         z-index: 1000; 
