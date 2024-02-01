@@ -15,7 +15,7 @@ body {
 }
 
 nav.gallery:hover {
-  background-color: lightgrey;
+  background-color: gold;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -40,7 +40,7 @@ nav.desc {
   position: fixed;
   top: 0;
   right: 0;
-  background-color: gold;
+  background-color: white;
 }
 #span1{
   background-color: lightgrey;
@@ -66,7 +66,7 @@ nav.desc {
   margin: auto;
   border: 3px solid;
   color: brown;
-  background-color: gold;
+  background-color: white;
 }
 #form1{
  user-select: none;
@@ -98,7 +98,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: lightgrey;
+  background-color: gold;
   color: brown;
 }
 
