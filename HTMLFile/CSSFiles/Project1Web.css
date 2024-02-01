@@ -94,7 +94,7 @@ a:link, a:visited {
   margin-right: 32px;
   text-align: left;
   text-decoration: none;
- display: inherit;
+ display: grid;
 }
 
 a:hover, a:active {
