@@ -2,6 +2,8 @@
     body {
         font-size: 14px;
         line-height: 1.6;
+        padding-top: 200px;
+        max-width: 600px;
     }
 
     img {
@@ -48,10 +50,4 @@
         text-decoration: none;
         padding: 10px 15px;
     }
-
-    body {
-        padding-top: 200px;
-        max-width: 600px;
-    }
-
 }
