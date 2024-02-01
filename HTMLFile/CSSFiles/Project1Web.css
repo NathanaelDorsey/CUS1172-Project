@@ -23,7 +23,6 @@ nav.gallery img {
   height: auto;
   text-align: center;
   background-color: lightgrey;
-  margin: auto;
   ;
 }
 
@@ -32,7 +31,6 @@ nav.desc {
   font-size: 24px;
   color: brown;
   background-color: lightgrey;
-  margin: auto;
 }
 .menu{
   border: 2px solid black;
