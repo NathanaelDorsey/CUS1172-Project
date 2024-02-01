@@ -23,7 +23,8 @@ nav.gallery img {
   height: auto;
   text-align: center;
   background-color: lightgrey;
-  border: 25px; 
+  border: 25px;
+  padding: 5px
   ;
 }
 
