@@ -1,0 +1,26 @@
+@media print {
+    body {
+        font-size: 12pt;
+        color: #000;
+    }
+
+    img {
+        display: none;
+    }
+
+    nav, #menu_anchor, .gallery, .desc, iframe, a {
+        display: none;
+    }
+
+    h1, h2, h3, h4 {
+        color: #000;
+    }
+
+    p, li, td, th {
+        page-break-inside: avoid;
+    }
+
+    table {
+        width: 100%;
+    }
+}
