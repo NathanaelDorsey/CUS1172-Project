@@ -21,8 +21,8 @@ nav.gallery:hover {
 nav.gallery img {
   width: auto;
   height: auto;
-  text-align: center;
   background-color: lightgrey;
+  background-size: auto;
   ;
 }
 
