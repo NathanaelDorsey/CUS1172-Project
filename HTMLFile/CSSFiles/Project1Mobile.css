@@ -2,53 +2,57 @@
     body {
         font-size: 14px;
         line-height: 1.6;
-        padding-top: 200px;
-        max-width: 500px;
+        padding-top: 250px;
+        margin: 0 auto;
     }
 
     img {
-        max-width: 500px;
-        max-height: 500px;
+        max-width: 250px;
+        max-height: 250px;
     }
 
-    #menu_anchor ul,
-    .gallery,
-    .desc {
+    #menu_anchor ul, .gallery, .desc {
         margin: 0;
         padding: 0;
         list-style-type: none;
         text-align: center;
-        margin-right: 32px;
     }
 
     .gallery a, .desc {
         display: block;
         margin: 10px auto;
+        max-width: 250px;
+        max-height: 250px;
     }
-
+    
     table {
         width: 100%;
-        display: block;
         overflow-x: auto;
     }
-    .menu {
+     li{
+    max-height:300px;
+    max-width: 300px;
+    }
+iframe{
+    height:250px;
+    width: 250px;
+}
+.menu {
         position: fixed;
         top: 0;
-        left: 0;
-        max-height: 100px;
         width: 100%;
         background-color: white; 
-        z-index: 1000; 
-        display: block;
-        flex-direction: rows;
+        z-index: 10; 
+        display: flex;
         justify-content: space-around; 
-        align-items: center; 
-        padding: 10px 0; 
+        align-items: center;
+        padding: 0px;
     }
 
     .menu a {
-        display: block;
         text-decoration: none;
-        padding: 10px 15px;
+        padding: 0px;
+    }
+    ul {
     }
 }
