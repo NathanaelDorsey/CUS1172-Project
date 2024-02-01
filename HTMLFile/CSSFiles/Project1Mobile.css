@@ -37,7 +37,7 @@
         background-color: white; 
         z-index: 1000; 
         display: block;
-        flex-direction: column;
+        flex-direction: rows;
         justify-content: space-around; 
         align-items: center; 
         padding: 10px 0; 
