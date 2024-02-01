@@ -7,7 +7,9 @@
     img {
         display: none;
     }
-
+    class.h2{
+        display: none;
+    }
     nav, #menu_anchor, .gallery, .desc, iframe, a {
         display: none;
     }
