@@ -50,7 +50,8 @@
     }
 
     body {
-        padding-top: 80px;
+        padding-top: 200px;
+        max-width: 600px;
     }
 
 }
