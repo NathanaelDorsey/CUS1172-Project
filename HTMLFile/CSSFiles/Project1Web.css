@@ -14,25 +14,28 @@ body {
   
 }
 
-nav.gallery:hover {
+li.gallery:hover {
+  list-style-type: none;
   border: 1px solid #777;
 }
 
-nav.gallery img {
+li.gallery img {
+  list-style-type: none;
   width: auto;
   height: auto;
   text-align: center;
   background-color: lightgrey;
-  border: 25px;
-  padding: 5px
+  margin: auto;
   ;
 }
 
-nav.desc {
+li.desc {
+  list-style-type: none;
   text-align: center;
   font-size: 24px;
   color: brown;
   background-color: lightgrey;
+  margin: auto;
 }
 .menu{
   border: 2px solid black;
