@@ -70,7 +70,7 @@ nav.desc {
 #form1{
  user-select: none;
  border: 25px; 
- background-color: lightgrey; 
+ background-color: white; 
  width: 200px;
  padding: 5px
 }
@@ -82,7 +82,7 @@ nav.desc {
  font-weight: bold;
  border: 25px;
  padding: 5px;
- background-color: lightgrey;
+ background-color: white;
  width: 200px;
 }
 a:link, a:visited {
