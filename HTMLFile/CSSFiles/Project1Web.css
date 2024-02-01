@@ -14,13 +14,11 @@ body {
   
 }
 
-li.gallery:hover {
-  list-style-type: none;
+nav.gallery:hover {
   border: 1px solid #777;
 }
 
-li.gallery img {
-  list-style-type: none;
+nav.gallery img {
   width: auto;
   height: auto;
   text-align: center;
@@ -29,8 +27,7 @@ li.gallery img {
   ;
 }
 
-li.desc {
-  list-style-type: none;
+nav.desc {
   text-align: center;
   font-size: 24px;
   color: brown;
