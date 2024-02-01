@@ -19,10 +19,10 @@ nav.gallery:hover {
 }
 
 nav.gallery img {
-  width: auto;
-  height: auto;
   background-color: lightgrey;
   background-size: auto;
+  width: auto;
+  height: auto;
   ;
 }
 
