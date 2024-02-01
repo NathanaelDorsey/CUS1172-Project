@@ -5,7 +5,7 @@
     }
 
     img {
-        max-width: auto;
+        max-width: 600px;
         height: auto;
     }
 
@@ -16,6 +16,7 @@
         padding: 0;
         list-style-type: none;
         text-align: center;
+        margin-right: 0;
     }
 
     .gallery a, .desc {
@@ -34,7 +35,7 @@
         left: 0;
         width: 100%;
         background-color: white; 
-        z-index: 1000; 
+        z-index: 10; 
         display: flex;
         justify-content: space-around; 
         align-items: center; 
