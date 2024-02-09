@@ -1,0 +1,58 @@
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 14px;
+        line-height: 1.6;
+        padding-top: 250px;
+        margin: 0 auto;
+    }
+
+    img {
+        max-width: 250px;
+        max-height: 250px;
+    }
+
+    #menu_anchor ul, .gallery, .desc {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        text-align: center;
+    }
+
+    .gallery a, .desc {
+        display: block;
+        margin: 10px auto;
+        max-width: 250px;
+        max-height: 250px;
+    }
+    
+    table {
+        width: 100%;
+        overflow-x: auto;
+    }
+     li{
+    max-height:300px;
+    max-width: 300px;
+    }
+iframe{
+    height:250px;
+    width: 250px;
+}
+.menu {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        background-color: white; 
+        z-index: 10; 
+        display: flex;
+        justify-content: space-around; 
+        align-items: center;
+        padding: 0px;
+    }
+
+    .menu a {
+        text-decoration: none;
+        padding: 0px;
+    }
+    ul {
+    }
+}
